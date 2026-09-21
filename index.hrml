@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>21 de Septiembre 🌻</title>
+    <link rel="stylesheet" href="anfrea.css">
+</head>
+
+<body>
+
+    <div class="flores"></div>
+
+    <main class="contenedor">
+
+        <div class="fecha">21 DE SEPTIEMBRE</div>
+
+        <h1>🌻 Flores Amarillas 🌻</h1>
+
+        <p class="subtitulo">
+            Andrea
+        </p>
+
+        <div class="ramo">
+            🌻🌻🌻
+            <br>
+            🌻🌼🌻
+            <br>
+            🌻🌻🌻
+        </div>
+
+        <button id="botonCarta">
+            💌 Abrir mi carta
+        </button>
+
+        <div id="carta" class="carta">
+            <div class="papel">
+
+                <h2>Para ti 💛</h2>
+
+                <p>
+                    Hoy, 21 de septiembre, quería regalarte
+                    algo especial.
+                </p>
+
+                <p>
+                    Tal vez no pueda dartelo en persona por obvias razones, y no queria dejarlo asi y ya, pero aca estan florecitas
+                   
+                </p>
+
+                <img src="flores.png" width="300">
+                    
+                                      
+                <p>
+                    Espero que estas flores te alegren
+                    un poco el día. 
+                </p>
+
+                <p class="firma">
+                    Con cariño Pablito 
+                </p>
+
+            </div>
+        </div>
+
+    </main>
+
+    <script src="anfreaa.js"></script>
+
+</body>
+</html>
